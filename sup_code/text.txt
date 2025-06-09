@@ -1,0 +1,171 @@
+class3
+[:1000]
+LinearModel 1min: 		49.4%  5min: 49.6%  15min: 51.8%
+MLPModel 1min: 			49.3%  5min: 50.8%  15min: 53.2%
+GRUModel 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TransformerModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2 1min:	49.3%  5min: 49.9%  15min: 52.6%
+TCNModel 1min: 			50.0%  5min: 53.6%  15min: 52.8%
+NBeatsModel 1min:		50.7%  5min: 50.0%  15min: 48.0%
+SimpleInformer 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TFTLite 1min: 			49.3%  5min: 50.0%  15min: 51.8%
+SimpleDeepAR 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+PatchTST 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+TimesNetClassifier 1min:	49.3%  5min: 50.0%  15min: 48.0%
+GRUD 1min: 			50.9%  5min: 50.0%  15min: 51.5%
+SCINet 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+FEDformer 1min: 		49.9%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelNew 1min	49.3%  5min: 50.0%  15min: 48.0%
+TransformerModelNew 1min	49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2New 1m	49.3%  5min: 50.0%  15min: 48.0%
+[-1000:]
+LinearModel 1min: 		49.0%  5min: 51.3%  15min: 50.0%
+MLPModel 1min: 			49.3%  5min: 52.5%  15min: 50.3%
+GRUModel 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TransformerModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2 1min: 	49.3%  5min: 50.0%  15min: 52.0%
+TCNModel 1min: 			52.7%  5min: 51.1%  15min: 50.3%
+NBeatsModel 1min: 		50.7%  5min: 50.0%  15min: 48.0%
+SimpleInformer 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TFTLite 1min: 			49.3%  5min: 50.0%  15min: 49.6%
+SimpleDeepAR 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+PatchTST 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+TimesNetClassifier 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+GRUD 1min: 			50.7%  5min: 50.0%  15min: 52.0%
+SCINet 1min: 			49.3%  5min: 49.4%  15min: 48.0%
+FEDformer 1min: 		46.4%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelNew 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+TransformerModelNew 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2New 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+
+
+class3_short
+[:1000]
+LinearModel 1min: 		52.8%  5min: 50.1%  15min: 48.8%
+MLPModel 1min: 			49.3%  5min: 50.0%  15min: 52.2%
+GRUModel 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TransformerModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2 1min: 	49.3%  5min: 50.0%  15min: 52.0%
+TCNModel 1min: 			52.4%  5min: 52.0%  15min: 50.9%
+NBeatsModel 1min: 		50.9%  5min: 50.1%  15min: 48.0%
+SimpleInformer 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TFTLite 1min: 			49.3%  5min: 50.0%  15min: 52.0%
+SimpleDeepAR 1min: 		49.3%  5min: 50.0%  15min: 52.0%
+PatchTST 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+TimesNetClassifier 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+GRUD 1min: 			49.3%  5min: 50.0%  15min: 52.0%
+SCINet 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+FEDformer 1min: 		50.7%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelNew 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+TransformerModelNew 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2New 1min: 	49.3%  5min: 51.1%  15min: 48.5%
+[-1000:]
+inearModel 1min: 		48.0%  5min: 50.3%  15min: 47.1%
+MLPModel 1min: 			49.3%  5min: 50.0%  15min: 51.8%
+GRUModel 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TransformerModel 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2 1min: 	49.3%  5min: 50.0%  15min: 52.0%
+TCNModel 1min: 			51.0%  5min: 50.2%  15min: 50.0%
+NBeatsModel 1min: 		50.7%  5min: 49.0%  15min: 48.1%
+SimpleInformer 1min: 		49.3%  5min: 50.0%  15min: 48.0%
+TFTLite 1min: 			49.3%  5min: 50.0%  15min: 52.0%
+SimpleDeepAR 1min: 		49.3%  5min: 50.0%  15min: 52.0%
+PatchTST 1min: 			49.3%  5min: 50.0%  15min: 48.0%
+TimesNetClassifier 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+GRUD 1min: 			49.3%  5min: 50.0%  15min: 52.0%
+SCINet 1min: 			48.9%  5min: 49.4%  15min: 48.0%
+FEDformer 1min: 		50.7%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelNew 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+TransformerModelNew 1min: 	49.3%  5min: 50.0%  15min: 48.0%
+EnhancedRNNModelV2New 1min: 	49.3%  5min: 51.3%  15min: 49.4%
+
+
+
+class1
+[:1000]
+LinearModel 			1min: 	48.9% 
+MLPModel 			1min: 	47.8% 
+GRUModel			1min: 	48.8% 
+EnhancedRNNModel 		1min: 	48.8% 
+TransformerModel 		1min: 	51.2% 
+EnhancedRNNModelV2 1min: 		48.8% 
+TCNModel 1min: 				53.6% 
+NBeatsModel 1min: 			48.8% 
+SimpleInformer 1min: 			48.8% 
+TFTLite 1min: 				48.8% 
+SimpleDeepAR 1min: 			48.8% 
+PatchTST 1min: 				51.2% 
+TimesNetClassifier 1min: 		51.2% 
+GRUD 1min: 				48.8% 
+SCINet 1min: 				48.8% 
+FEDformer 1min: 			51.2% 
+EnhancedRNNModelNew 1min: 		48.8% 
+TransformerModelNew 1min: 		51.2% 
+EnhancedRNNModelV2New 1min: 		48.8% 
+[-1000:]
+LinearModel 1min: 			49.3% 
+MLPModel 1min: 				49.0% 
+GRUModel 1min: 				48.8% 
+EnhancedRNNModel 1min: 			48.8% 
+TransformerModel 1min: 			51.2% 
+EnhancedRNNModelV2 1min: 		48.8% 
+TCNModel 1min: 				50.2% 
+NBeatsModel 1min: 			48.8% 
+SimpleInformer 1min: 			48.8% 
+TFTLite 1min: 				48.8% 
+SimpleDeepAR 1min: 			48.8% 
+PatchTST 1min: 				51.2% 
+TimesNetClassifier 1min: 		51.2% 
+GRUD 1min: 				48.8% 
+SCINet 1min: 				48.8% 
+FEDformer 1min: 			51.2% 
+EnhancedRNNModelNew 1min: 		48.8% 
+TransformerModelNew 1min: 		51.2% 
+EnhancedRNNModelV2New 1min: 		48.8% 
+
+
+class1_short1
+[:1000]
+LinearModel 1min: 			51.2% 
+MLPModel 1min: 				48.8% 
+GRUModel 1min: 				51.2% 
+EnhancedRNNModel 1min: 			51.2% 
+TransformerModel 1min:		 	51.2% 
+EnhancedRNNModelV2 1min: 		48.8% 
+TCNModel 1min: 				48.8% 
+NBeatsModel 1min: 			48.8% 
+SimpleInformer 1min: 			51.2% 
+TFTLite 1min: 				51.2% 
+SimpleDeepAR 1min: 			51.2% 
+PatchTST 1min: 				51.2% 
+TimesNetClassifier 1min: 		51.2% 
+GRUD 1min: 				51.2% 
+SCINet 1min: 				51.2% 
+FEDformer 1min: 			48.8% 
+EnhancedRNNModelNew 			48.8% 
+TransformerModelNew 1min: 		51.2% 
+EnhancedRNNModelV2New 1min: 		48.8% 
+[-1000:]
+LinearModel 1min: 			51.2% 
+MLPModel 1min: 				48.8% 
+GRUModel 1min: 				51.2% 
+EnhancedRNNModel 1min: 			51.2% 
+TransformerModel 1min: 			51.2% 
+EnhancedRNNModelV2 1min: 		48.8% 
+TCNModel 1min: 				48.8% 
+NBeatsModel 1min: 			48.8% 
+SimpleInformer 1min: 			51.2% 
+TFTLite 1min: 				51.2% 
+SimpleDeepAR 1min: 			51.2% 
+PatchTST 1min: 				51.2% 
+TimesNetClassifier 1min: 		51.2% 
+GRUD 1min: 				51.2% 
+SCINet 1min: 				51.2% 
+FEDformer 1min: 			48.8% 
+EnhancedRNNModelNew 1min: 		48.8% 
+TransformerModelNew 1min: 		51.2% 
+EnhancedRNNModelV2New 1min: 		48.8% 

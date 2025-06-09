@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyCharm project settings
+.idea/
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (если случайно будет использован)
+.vscode/
+
+# Output / model files
+*.h5
+*.pt
+*.pkl
+*.joblib
+
+# Environment files
+.env
